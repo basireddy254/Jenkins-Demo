@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class jenkins {
 	
-	@Test
+	@Test 
 	public void demo() {
 		System.out.println("welcome jenkins demo");
 	}
